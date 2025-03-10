@@ -1,7 +1,6 @@
 import pytest
 from src.main import GestorUsuario
 
-import pytest
 
 @pytest.fixture
 def gestor():
