@@ -1,3 +1,4 @@
+
 from datetime import datetime
 
 class Tarea:
@@ -51,3 +52,6 @@ class GestorUsuario:
     
     def cambiar_contraseña(self, id_usuario: str, nueva_contraseña: str):
         pass  
+    
+    def suma(a, b):
+        return a+b
